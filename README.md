@@ -1,3 +1,5 @@
+Modified code to use on Balco 3D printer (from Aldi/Hofer) - you might need to change directions of X and Y axis in your 3d software on computer + LCD is not working.
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
